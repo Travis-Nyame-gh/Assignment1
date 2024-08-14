@@ -28,3 +28,4 @@ C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Deb
 C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\BlazorSupplier.WebUI.genruntimeconfig.cache
 C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\ref\BlazorSupplier.WebUI.dll
 C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
+C:\Users\Righteous\Documents\ClassLabProject-master\BlazorSupplier.WebUI\obj\Debug\net8.0\BlazorSupplier.WebUI.sourcelink.json
