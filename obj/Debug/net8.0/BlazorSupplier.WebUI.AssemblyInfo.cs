@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorSupplier.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d0cdd2a32075a4cc402e3af49f6ccc98cd75323")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorSupplier.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorSupplier.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
